@@ -1,2 +1,2 @@
-# curr-culo
+# curriculo
 Hospedando meu currículo pessoal de trabalho.
